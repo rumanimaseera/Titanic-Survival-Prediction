@@ -41,7 +41,7 @@ The dataset is sourced from Kaggle’s Titanic competition and includes features
 ---
 
 ## 📈 Results
-- Achieved approximately **78% accuracy** using Logistic Regression.
+- Achieved approximately **74% accuracy** using Logistic Regression.
 
 ---
 
